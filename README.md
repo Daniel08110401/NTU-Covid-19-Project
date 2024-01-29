@@ -1,4 +1,4 @@
-# NTU Covid-19 Data Analysis, Prediction & Machine Learning Project (Sep 2022 - Nov 2022)
+# NTU Covid-19 Data Analysis, Prediction & Machine Learning Project
 
 ## Project Overview
 This project, conducted from September to November 2022, involves the analysis and prediction of COVID-19 cases in the USA using machine learning. Our team focused on building a prediction model to test a specific thesis and evaluate its accuracy.
